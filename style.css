@@ -542,7 +542,7 @@ footer{
     color:#2E2E2E;
 }
 
-@media (max-width:800px) {
+@media (max-width:600px) {
 
     .upper .image1{
         display: none;
